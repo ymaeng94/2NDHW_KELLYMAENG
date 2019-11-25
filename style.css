@@ -1,0 +1,37 @@
+
+.yurimmaeng {
+    color: #ffffff;
+    background: #4aaaa5;
+    border: 1px solid #cccccc;
+    font-family:'Georgia', Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.nav {
+    float: right;
+    color: #777777;
+} 
+
+body{
+    background-image:url("https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_1280.jpg");
+}
+h1 {
+    font-size:15px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin: 10px 900px 900px 100px;
+    border-bottom : 2px solid #dddddd; 
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    overflow: hidden;
+}
+.card-title {
+    background: #4aaaa5;
+}
+.container {
+    float: left;
+}
+.card-img {
+    overflow: hidden;
+}
